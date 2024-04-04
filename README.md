@@ -46,7 +46,7 @@ Figma <br>
 
 ### 📄 Documentation
 
-[Voir les diagrammes de cas d'usage](Ressources/Ganzin_Segolene_2_diagramme_cas_usage_042024.pdf) <br>
+[Voir les diagrammes de cas d'usage](Ressources/Ganzin_Segolene_1_diagramme_cas_usage_042024.pdf) <br>
 [Voir les user stories](Ressources/Ganzin_Segolene_2_user_stories_042024.pdf)<br>
 [Voir les maquettes](https://www.figma.com/file/7e6NqsxEq3sRrXdSyRR0Tp/Learn%40Home?type=design&node-id=8-7618&mode=design&t=scMYIKZ7JPPNI5ua-0) <br>
 [Voir le Kanban](https://github.com/users/segoleneganzin/projects/1/views/1)
