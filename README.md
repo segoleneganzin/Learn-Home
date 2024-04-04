@@ -6,8 +6,8 @@ Projet 10 du parcours "**Développeur d'application** - JavaScript React" d'Open
 
 ### 📚 Contexte
 
-**Dev4U** est une petite agence web dans laquelle tout le monde a une double casquette. <br>
-L'entreprise a décroché un nouveau client : Learn@Home. <br>
+**Dev4U** est une petite agence web dans laquelle tout le monde a une double casquette. <br><br>
+L'entreprise a décroché un nouveau client : Learn@Home. <br><br>
 Learn@Home est une association qui met en relation des enfants en difficulté scolaire et des bénévoles, en ligne. <br>
 Ils ont pour objectif de permettre à tout élève, où qu’il soit, d’accéder à un soutien scolaire à distance. <br>
 Chaque élève inscrit sur le site a un tuteur bénévole, qui lui est assigné. <br>
