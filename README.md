@@ -52,7 +52,7 @@ Figma <br>
 [Voir le Kanban](https://github.com/users/segoleneganzin/projects/1/views/1)
 
 ### 📄 Navigation
-![diagramme de navigation](Ressources/navigation.png)
+![diagramme de navigation](Ressources/site-navigation.png)
 
 ### 🏆 Compétences évaluées
 
