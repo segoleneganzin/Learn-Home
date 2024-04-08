@@ -51,7 +51,7 @@ Figma <br>
 [Voir les maquettes](https://www.figma.com/file/7e6NqsxEq3sRrXdSyRR0Tp/Learn%40Home?type=design&node-id=8-7618&mode=design&t=scMYIKZ7JPPNI5ua-0) <br>
 [Voir le Kanban](https://github.com/users/segoleneganzin/projects/1/views/1)
 
-### 📄 Navigation
+### 🖥 Navigation
 ![diagramme de navigation](Ressources/site-navigation.png)
 
 ### 🏆 Compétences évaluées
